@@ -20,7 +20,7 @@ The workflow reduces manual administrative work and improves communication effic
 
 ---
 
-# Technologies Used in this project
+# Technologies Used
 
 | Technology            | Purpose                  |
 | --------------------- | ------------------------ |
